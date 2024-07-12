@@ -1,0 +1,12 @@
+/home/cuong/.local/share/JetBrains/Toolbox/apps/clion-2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/cuong/.local/share/JetBrains/Toolbox/apps/clion-2/bin/ninja/linux/x64/ninja -G Ninja -S /home/cuong/CLionProjects/CCMV_CPLEX_GUROBI -B /home/cuong/CLionProjects/CCMV_CPLEX_GUROBI/cmake-build-debug
+-- Found CPLEX Studio: /opt/ibm/ILOG/CPLEX_Studio2211
+-- CPLEX Studio dir: /opt/ibm/ILOG/CPLEX_Studio2211
+-- CPLEX dir: /opt/ibm/ILOG/CPLEX_Studio2211/cplex
+-- CPLEX include dir: /opt/ibm/ILOG/CPLEX_Studio2211/cplex/include
+-- Concert Lib: /opt/ibm/ILOG/CPLEX_Studio2211/concert/lib/x86-64_linux/static_pic/libconcert.a
+-- System: Linux-6.5.0-41-generic
+-- Build type: Release
+-- Compiler version: 13.2.0
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/cuong/CLionProjects/CCMV_CPLEX_GUROBI/cmake-build-debug
